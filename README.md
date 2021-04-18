@@ -1,4 +1,4 @@
-# doctor-green
+# Doctor Green
 Plant disease detection and remedy suggestion using Deep Learning, Server computing and Android. Project was done in a team of 4 members.
 
 ## Inspiration
